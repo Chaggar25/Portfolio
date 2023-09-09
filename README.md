@@ -13,5 +13,5 @@ This is a video of my page.
 
 
 LINK TO DEPLOYED WEBSITE
-http://127.0.0.1:5500/index.html
+https://chaggar25.github.io/Portfolio/
 
